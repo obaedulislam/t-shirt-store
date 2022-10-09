@@ -1,0 +1,18 @@
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+    color: #fff;
+}
+.red{
+    background-color: red;
+    color: #fff;
+}
+.blue{
+    background-color: blue;
+    color: #fff;
+}
+.bold{
+    font-weight: 700;
+}
